@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yun Jia
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: East China Normal University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include solar cells testing and modeling.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Optoelectronic devices
+- Solar cells testing and modeling
+- Electroluminescence 
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+  - course: M.S in Microelectronics and Solid State Electronics
+    institution: East China Normal University
+    year: 2022
+  - course: B.S in Electronic Science and Technology
+    institution: Nantong University
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
